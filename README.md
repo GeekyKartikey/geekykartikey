@@ -9,7 +9,7 @@
 
 - 📫 How to reach me  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/geeky_kartikey)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekykartikey)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r-rq9bSrjU-daaz6Y2KY11WfMTLdUBr1/view?usp=sharing](https://drive.google.com/file/d/1r-rq9bSrjU-daaz6Y2KY11WfMTLdUBr1/view?usp=sharing)
+
 
 - ⚡ Fun fact **I think I am Web3 Wizard🧙‍♂️🪄**
 
