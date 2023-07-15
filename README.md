@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Kartikey Garg</h1>
 <h3 align="center">Beginner Dev🧑‍💻, Aspiring DevRel🥑</h3>
 
-<p align="left"> <a href="https://twitter.com/geeky_kartikey" target="blank"><img src="https://img.shields.io/twitter/follow/geeky_kartikey?logo=twitter&style=for-the-badge" alt="geeky_kartikey" /></a> </p>
+-👋 Pre Final year CSE Undergrad from Jaipur🧑‍💻✨
 
-- 🌱 I’m currently learning **Solidity, Smart Contract Developement**
+- 🌱Learning Web3 Development from Patrick Collins course(https://bit.ly/web3devcourse)
 
-- 📝 I regularly write articles on [Web3, Protocols,etc.](Web3, Protocols,etc.)
+- 📝 Write articles & Threads on [Web3, Protocols,etc.](Web3, Protocols,etc.)
 
-- 📫 How to reach me **Kartikeygarg2004@gmail.com**
+- 📫 How to reach me  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/geeky_kartikey)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekykartikey)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r-rq9bSrjU-daaz6Y2KY11WfMTLdUBr1/view?usp=sharing](https://drive.google.com/file/d/1r-rq9bSrjU-daaz6Y2KY11WfMTLdUBr1/view?usp=sharing)
 
