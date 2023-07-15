@@ -7,6 +7,8 @@
 
 - 📝 Write articles & Threads on [Web3, Protocols,etc.](Web3, Protocols,etc.)
 
+- 🥅 2023 Goals: Participate as much as Hackathons and actively engage with the Open source community.
+
 - 📫 How to reach me **Kartikeygarg2004@gmail.com**
 
 
