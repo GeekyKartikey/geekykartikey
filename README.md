@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kartikey Garg</h1>
-<h3 align="center">Beginner Dev🧑‍💻, Aspiring DevRel🥑</h3>
+<h3 align="center">Aspiring Developer Advocate🥑</h3>
 
 - 👋 Pre Final year CSE Undergrad from Jaipur🧑‍💻✨
 
