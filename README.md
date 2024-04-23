@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kartikey Garg</h1>
 <h3 align="center">Beginner Dev🧑‍💻, Aspiring DevRel🥑</h3>
 
--👋 Pre Final year CSE Undergrad from Jaipur🧑‍💻✨
+- 👋 Pre Final year CSE Undergrad from Jaipur🧑‍💻✨
 
 - 🌱Learning Web3 Development from Patrick Collins course(https://bit.ly/web3devcourse)
 
